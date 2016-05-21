@@ -1,5 +1,5 @@
 {
-    "GIR": "¡Hola!\nSoy la Unidad G.I.R. compañero robot de Gabriel asignado por los Más Altos para ayudarlo en su supuesta conquista de la Tierra.\n![esther](http://gabrielgoyo.com.ve/wp-content/uploads/2016/05/gabriel.png)\n¿Quieres saber más sobre Gabriel o sobre su sitio web?%[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "GIR": "¡Hola!\nSoy la Unidad G.I.R. compañero robot de Gabriel asignado por los Más Altos para ayudarlo en su supuesta conquista de la Tierra.\n![esther](https://raw.githubusercontent.com/gabrieljgoyo/EstherBot/master/img/gabriel.png)\n¿Quieres saber más sobre Gabriel o sobre su sitio web?%[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HOLA": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "DILE": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "TE AMO": "Awh, shucks! I love you too!",
