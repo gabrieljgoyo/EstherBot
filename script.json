@@ -1,7 +1,6 @@
 {
     "HOLA": "¡Hola!\nSoy la Unidad G.I.R. compañero robot de Gabriel asignado por los Más Altos para ayudarlo en su supuesta conquista de la Tierra.\n¿Quieres saber más sobre Gabriel, sobre su sitio web o prefieres hablar directamente con él?%[I'm here for the bot](postback:here_for_the_bot) %[Saludar a Gabriel](postback:saludar) %[One random fact!](postback:random_fact)",
-    "SALUDAR": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "DILE": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "SALUDAR": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "TE AMO": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
